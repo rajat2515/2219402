@@ -1,0 +1,10 @@
+{
+  "short_name": "URL Shortener",
+  "name": "URL Shortener Application",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "description": "A modern URL shortener application with analytics"
+} 
